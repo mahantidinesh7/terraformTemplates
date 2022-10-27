@@ -1,0 +1,14 @@
+{
+   "name": "null-instance-1.x",
+   "description": "null-instance for demo",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "null-instance-1.x",
+     "bullets": []
+   }
+ }
