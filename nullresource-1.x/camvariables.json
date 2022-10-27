@@ -1,0 +1,24 @@
+{
+  "input_datatypes": [],
+  "input_namespaces": [],
+  "output_namespace": "",
+  "input_groups": [],
+  "output_groups": [],
+  "template_input_params": [
+    {
+      "name": "greeting_message",
+      "label": "Greeting Message",
+      "description": "Greeting Message",
+      "type": "string",
+      "default": "Hello World",
+      "validation": "",
+      "group_name": "Metadata",
+      "required": true,
+      "secured": false,
+      "hidden": false,
+      "immutable": false,
+      "immutable_after_create": false
+    }
+  ],
+  "template_output_params": []
+}
